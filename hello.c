@@ -2,7 +2,7 @@
 
 int main() 
 {
-    // c
+    // test
     printf("Hello: ");
     printf("xiaoming");
     printf("dongshao");
